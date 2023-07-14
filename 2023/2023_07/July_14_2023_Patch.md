@@ -14,7 +14,7 @@ An update for Project Unison servers was released. Changes will automatically ap
 * Replaced KOTH Rotunda with latest Live TF2 patch
 > TF2C version is way too outdated, and the author does not care anymore so we decided to replace it with latest Live TF2 workshop version.
 * Moved KOTH Sharkbay, KOTH Rotunda, PL Cashworks into Live TF2 maps category as they are now part of Live TF2 maps
-* Removed VIP Survival game mode due to lack of popularity.
+* Removed VIP Survival game mode due to lack of popularity and so many exploits
 
 ### Fixes
 * Fixed some of official maps not being present on mapcycles file
