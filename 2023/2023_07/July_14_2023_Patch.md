@@ -1,4 +1,3 @@
-# July 14, 2023 Changelog: Summer 2023 A.K.A July Midseason Update, Part 2
 Welcome to Part 2 of July Midseason Update! Yep the Summer 2023 update for Live TF2 was unexpected. After asking to boba about community maps that were officially added into Live TF2, I've noticed the author of the workshop maps added into TF2 still belongs to map maker, not Valve.
 
 After considering if we should keep Live TF2 maps or not, I made this decision: Screw the official status! Anyways, this update brings back several maps from Live TF2, which is the last version before Valve adds the map.
@@ -15,6 +14,7 @@ An update for Project Unison servers was released. Changes will automatically ap
 * Replaced KOTH Rotunda with latest Live TF2 patch
 > TF2C version is way too outdated, and the author does not care anymore so we decided to replace it with latest Live TF2 workshop version.
 * Moved KOTH Sharkbay, KOTH Rotunda, PL Cashworks into Live TF2 maps category as they are now part of Live TF2 maps
+* Removed VIP Survival game mode due to lack of popularity.
 
 ### Fixes
 * Fixed some of official maps not being present on mapcycles file
