@@ -1,3 +1,4 @@
+# July 14, 2023 Patch: Summer 2023 A.K.A July Midseason Update, Part 2
 Welcome to Part 2 of July Midseason Update! Yep the Summer 2023 update for Live TF2 was unexpected. After asking to boba about community maps that were officially added into Live TF2, I've noticed the author of the workshop maps added into TF2 still belongs to map maker, not Valve.
 
 After considering if we should keep Live TF2 maps or not, I made this decision: Screw the official status! Anyways, this update brings back several maps from Live TF2, which is the last version before Valve adds the map.
