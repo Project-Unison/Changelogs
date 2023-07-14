@@ -8,7 +8,7 @@ To prevent any further issues, this map will NOT receive any updates (except the
 An update for Project Unison servers was released. Changes will automatically apply after a map change. Major changes include:
 
 ### Map Rotation Updates
-* Reorganized structures for `mapcycles.txt`, and now it consists of two parts: TF2C Official Maps, Live TF2 Maps, Community Maps.
+* Reorganized structures for `mapcycles.txt`, and now it consists of three parts: TF2C Official Maps, Live TF2 Maps, Community Maps.
 * Added new category: Live TF2 Maps
 > These maps are taken from latest workshop version before Valve adds that map into the game. These maps will receive NO updates (except critical fixes), and can be removed at any time by the author/Valve's request.
 * Added 26 new Live TF2 maps: Arena Byre, Arena Suijin, A/D Hardwood, A/D Mossrock, A/D Snowplow, Hybrid Sulfur, CP Metalworks, CP Process, CP Snakewater, CP Sunshine, CP Vanguard, KOTH Brazil, KOTH Cascade, KOTH Lazarus, KOTH Probed, KOTH Suijin, PL Borneo, PL Breadspace, PL Enclosure, PL Phoenix, PL Pier, PL Rumford, PL Snowycoast, PL Venice, PLR Bananabay
