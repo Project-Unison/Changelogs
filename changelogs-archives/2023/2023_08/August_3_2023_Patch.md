@@ -22,7 +22,3 @@ An update for Project Unison servers was released. Changes will automatically ap
 > Many people can get bored if they keep playing on same map. This change should prevent players keep playing on same map for long time, allowing to give other maps a chance to play several maps in short time.
 * Removed `!nominate` command
 > We have noticed that people can repeatedly pick specific popular maps, caused by this !nominate command. As Live TF2 Casual doesn't include a player to choose a map, hopefully this change should allow others to try new maps without players keep choosing the same map over and over again.
-
-
-> Please note that SourceBans++ web panel won't be available to public due to my limitation, and it serves as installation and tools and nothing else!
-* Mute/Gag/Silence also gets synchronized unlike previous MySQL Bans
