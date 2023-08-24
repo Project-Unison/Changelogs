@@ -3,5 +3,6 @@ Happy Birthday, Team Fortress! It has been 27 years since the original Quake Tea
 
 An update for Project Unison servers was released. Changes will automatically apply after a map change. Major changes include:
 
+* Enabled Birthday mode
 * Replaced 2Fort NeoCity to 2Fort Classic map
     * This change will last during August 24, 2023 ~ August 31, 2023
