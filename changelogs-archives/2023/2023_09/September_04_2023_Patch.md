@@ -11,7 +11,6 @@ Welcome to yet another Midseason Update! As we announced this changes earlier, t
 * Renamed server name to Hi-Speed Custom Weapons (Was Hi-Speed New-Old Weapons Pack!)
 > Due to people frequently leaving the server while downloading the weapons assets, we had no choice but had to change server name to be more appropriate so people will acknowledge that server is using custom weapons.
 * Changed hosting provider to previous one, as the current one was lacking performance and caused frequent Out-of-Memory error, hopefully this should give more server performance
-* Updated TF2C Dedicated Server to 2.1.2
 * Updated CP Entropy
     * Version updated to b5
     * Slightly improved nav mesh, bots should work flawlessly than before
